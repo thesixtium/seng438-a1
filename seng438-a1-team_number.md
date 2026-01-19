@@ -2,12 +2,13 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 4      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Adol Awan                |   
+| Lex Berezowski              |   
+| Uchenna Osemeka               |   
+| Sam Shojaei                |   
+| Jane Zhang               |
 
 
 **Table of Contents**
